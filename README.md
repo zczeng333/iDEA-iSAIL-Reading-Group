@@ -17,7 +17,7 @@ Unless otherwise notified, our reading group for Summer 2021 is scheduled as fol
 | Jun 18, 2021   | Yikun Ban, Yao Zhou   | KDD Dry Run   |   |
 | Jun 21, 2021   | Boxin Du, Si Zhang  |  KDD Dry Run |  |
 | Jun 23, 2021   | Lihui Liu  |  KDD Dry Run |  |
-| Jun 28, 2021   |  |  |    |
+| Jun 28, 2021   | Tianxin Wei | KDD Dry Run |    |
 | July 5, 2021   |  Dawei Zhou |  Hunting Faculty Jobs in a Tight Market  |    |
 | July 12, 2021   |  Yao Zhou, Xu Liu  |  Industry Job Search  |    |
 | July 19, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
