@@ -23,7 +23,7 @@ Unless otherwise notified, our reading group for Summer 2021 is scheduled as fol
 | July 19, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
 | July 26, 2021   |  Shengyu Feng  | Graph Optimal Transport   |    |
 | Aug 2, 2021   |  Jun Wu   |  Mixup  |  [Manifold Mixup](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)  |
-| Aug 9, 2021   |  Lecheng Zheng  | Transfer Learning   |    |
+| Aug 9, 2021   |  Lecheng Zheng  | Mutual Information   |    |
 | Aug 16, 2021   | Zhe Xu |    |    |
 
 
