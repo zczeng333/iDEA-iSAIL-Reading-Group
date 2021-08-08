@@ -23,8 +23,8 @@ Unless otherwise notified, our reading group for Summer 2021 is scheduled as fol
 | July 19, 2021   |  Si Zhang, Boxin Du  |  Hacking Return Offers from Industry Research Labs|    |
 | July 26, 2021   |  Shengyu Feng  | Graph Optimal Transport   |  [Slides](https://docs.google.com/presentation/d/1X55EZ-rbnBc3dwYpZyw7XIYFA8yaRcOKkm42atX4yQo/edit?usp=sharing)  |
 | Aug 2, 2021   |  Jun Wu   |  Mixup  |  [Manifold Mixup](http://proceedings.mlr.press/v97/verma19a/verma19a.pdf)  |
-| Aug 9, 2021   | Boxin Du, Yuchen Yan | Turorial Dry Run   |    |
-| Aug 10, 2021   | Boxin Du, Yuchen Yan | Turorial Dry Run   |    |
+| Aug 9, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
+| Aug 10, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
 | Aug 16, 2021   | Zhe Xu |    |    |
 | Aug 23, 2021   |  Lecheng Zheng  | Mutual Information   |    |
 
