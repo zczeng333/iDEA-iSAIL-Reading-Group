@@ -9,7 +9,7 @@ Zoom: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
 Unless otherwise notified, our reading group for Summer 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email Dongqi Fu (dongqif2 [at] illinois [dot] edu). </span>
 
-Presenters, (1) please do not forget to upload your nice presentation slides to this github repository; (2) please also do not forget to forward the papers you are going to represent a week ahead of your presentation.
+Presenters, (1) please **do not forget** to upload your nice presentation slides to this github repository; (2) please also **do not forget** to forward the papers you are going to represent a week ahead of your presentation.
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Summer:</span>
