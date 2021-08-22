@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 9, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
 | Aug 10, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
 | Aug 23, 2021   | Zhe Xu |    |    |
-| Aug 30, 2021   |  Prof. [Liping Liu](https://www.eecs.tufts.edu/~liulp/)  | Guest Talk about Graph Generation   |    |
+| Aug 30, 2021   |  [Prof. Liping Liu](https://www.eecs.tufts.edu/~liulp/)  | Guest Talk about Graph Generation   |    |
 | Sep 06, 2021   |  Lecheng Zheng  | Mutual Information   |    |
 
 
