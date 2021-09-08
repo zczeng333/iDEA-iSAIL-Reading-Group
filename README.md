@@ -3,13 +3,28 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meeting.</span>
 
-Time: 9:30 - 11:30 pm CDT.
+Time: 9:30pm - 10:30 pm CDT.
 
 Zoom: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for Summer 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email Dongqi Fu (dongqif2 [at] illinois [dot] edu). </span>
+Unless otherwise notified, our reading group for Fall 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email Dongqi Fu (dongqif2 [at] illinois [dot] edu). </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Summer:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Sep 27, 2021   |   |   |   |
+| Oct 11, 2021   |   |   |   |
+| Oct 18, 2021   |   |   |   |
+| Oct 25, 2021   |   |   |   |
+| Nov 11, 2021   |   |   |   |
+| Nov 08, 2021   |   |   |   |
+| Nov 15, 2021   |   |   |   |
+| Nov 22, 2021   |   |   |   |
+| Nov 29, 2021   |   |   |   |
+| Dec 06, 2021   |   |   |   |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for 2021 Summer:</span>
