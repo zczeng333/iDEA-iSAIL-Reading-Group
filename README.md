@@ -16,7 +16,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Sep 27, 2021   |   |   |   |
-| Oct 11, 2021   | Dawei Zhou  | Thesis Dry Run  |   |
+| Oct 11, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
 | Oct 18, 2021   |   |   |   |
 | Oct 25, 2021   |   |   |   |
 | Nov 11, 2021   |   |   |   |
