@@ -45,7 +45,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 10, 2021   | Boxin Du, Yuchen Yan | Tutorial Dry Run   |    |
 | Aug 23, 2021   | Zhe Xu | Graph Neural Networks with Heterophily | [Slides](https://drive.google.com/file/d/1rDykc_93coonAkXoalk_So66Dn9R4Mgx/view?usp=sharing) |
 | Aug 30, 2021   |  [Prof. Liping Liu](https://www.eecs.tufts.edu/~liulp/)  | Guest Talk about Graph Generation   |    |
-| Sep 06, 2021   |  Lecheng Zheng  | Mutual Information   |    |
+| Sep 06, 2021   |  Lecheng Zheng  | Mutual Information   | [slides](https://docs.google.com/presentation/d/1RTKbLhG47Rxi90hYlEfH1RPhBL5juVJi/edit?usp=sharing&ouid=100659429194253784400&rtpof=true&sd=true)   |
 
 
 
