@@ -21,9 +21,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 25, 2021   | Jian Kang  | CIKM Dry Run  |   |
 | Nov 11, 2021   |   |   |   |
 | Nov 08, 2021   |   |   |   |
-| Nov 15, 2021   |  YIkun Ban |   |   |
+| Nov 15, 2021   |  Yikun Ban |   |   |
 | Nov 22, 2021   |   |   |   |
-| Nov 29, 2021   |   |   |   |
+| Nov 29, 2021   | Yunzhe Qi  |   |   |
 | Dec 06, 2021   |   |   |   |
 
 
