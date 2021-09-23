@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 01, 2021   |   |   |   |
 | Nov 08, 2021   | Qinghai Zhou |   |   |
 | Nov 15, 2021   |  Yikun Ban |   |   |
-| Nov 22, 2021   |   |   |   |
+| Nov 22, 2021   |  Ziwei Wu |   |   |
 | Nov 29, 2021   | Yunzhe Qi  |   |   |
 | Dec 06, 2021   |   |   |   |
 
