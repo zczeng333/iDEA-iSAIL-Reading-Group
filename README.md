@@ -15,7 +15,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Sep 27, 2021   | Dongqi Fu  | Discovering Graph Laws and their Applications in Dynamic Graphs |   |
+| Sep 27, 2021   | Dongqi Fu  | Discovering Graph Laws and their Applications in Dynamic Graphs | [Slides](https://drive.google.com/file/d/1N2ZRUHtMAaZ6x5T5y9tyAeyq94a_dvYU/view?usp=sharing)  |
 | Oct 11, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
 | Oct 18, 2021   | Si Zhang  | Thesis Defense Dry Run  |   |
 | Oct 25, 2021   | Jian Kang  | CIKM Dry Run  |   |
