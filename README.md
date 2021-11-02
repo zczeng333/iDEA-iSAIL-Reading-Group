@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 13, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
 | Oct 18, 2021   | Si Zhang  | Thesis Defense Dry Run  |   |
 | Oct 25, 2021   | Jian Kang  | CIKM Dry Run  |   |
-| Nov 01, 2021   | Zhichen Zeng  |   |   |
+| Nov 01, 2021   | Zhichen Zeng  | Graph Optimal Transition Coupling  | [Slides](https://docs.google.com/presentation/d/1AWKgQyHmjMsue4zbeolbU5bVW_3U-70h/edit#slide=id.p1)  |
 | Nov 08, 2021   | Qinghai Zhou |   |   |
 | Nov 15, 2021   |  Yikun Ban |   |   |
 | Nov 22, 2021   |  Ziwei Wu |   |   |
