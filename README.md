@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 15, 2021   |  Yikun Ban |   |   |
 | Nov 22, 2021   |  Ziwei Wu |   |   |
 | Nov 29, 2021   | Yunzhe Qi  |   |   |
-| Dec 06, 2021   |  Baoyu Jing |   |   |
+| Dec 06, 2021   |  Yao Zhou | Thesis Defense Dry Run  |   |
 
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2021:</span>
