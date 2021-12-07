@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 18, 2021   | Si Zhang  | Thesis Defense Dry Run  |   |
 | Oct 25, 2021   | Jian Kang  | CIKM Dry Run  |   |
 | Nov 01, 2021   | Zhichen Zeng  | Graph Optimal Transition Coupling  | [Slides](https://docs.google.com/presentation/d/1AWKgQyHmjMsue4zbeolbU5bVW_3U-70h/edit#slide=id.p1)  |
-| Nov 08, 2021   | Qinghai Zhou |   |   |
+| Nov 08, 2021   | Qinghai Zhou | Filtration Curves for Graph Classification | [Slides](https://docs.google.com/presentation/d/1av8_5Rlr_vTa1de9V74dz4bhVVh8_fPx/edit?usp=sharing&ouid=102841096031010636255&rtpof=true&sd=true)  |
 | Nov 15, 2021   |  Ziwei Wu |   |   |
 | Nov 22, 2021   |  Yikun Ban | Recent Advances in Neural Bandits  | [slides](http://www.banyikun.com/slides/group_pre_11_22_2021-2.pdf)|
 | Nov 29, 2021   | Yunzhe Qi  |   |   |
