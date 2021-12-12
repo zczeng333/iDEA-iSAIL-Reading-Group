@@ -15,6 +15,26 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
+| Jan 24, 2022  |   |   |   |
+| Jan 31, 2022  |   |   |   |
+| Feb 14, 2022  |   |   |   |
+| Feb 21, 2022  |   |   |   |
+| Feb 28, 2022  |   |   |   |
+| Mar 07, 2022  |   |   |   |
+| Mar 14, 2022  |   |   |   |
+| Mar 21, 2022  |   |   |   |
+| Mar 28, 2022  |   |   |   |
+| Apr 04, 2022  |   |   |   |
+| Apr 11, 2022  |   |   |   |
+| Apr 18, 2022  |   |   |   |
+| Apr 25, 2022  |   |   |   |
+| May 02, 2022  |   |   |   |
+| May 09, 2022  |   |   |   |
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
 | Sep 27, 2021   | Dongqi Fu  | Discovering Graph Laws and their Applications in Dynamic Graphs | [Slides](https://drive.google.com/file/d/1N2ZRUHtMAaZ6x5T5y9tyAeyq94a_dvYU/view?usp=sharing)  |
 | Oct 13, 2021   | Dawei Zhou  | Thesis Defense Dry Run  |   |
 | Oct 18, 2021   | Si Zhang  | Thesis Defense Dry Run  |   |
