@@ -18,7 +18,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 24, 2022  |   |   |   |
 | Jan 31, 2022  |   |   |   |
 | Feb 14, 2022  |   |   |   |
-| Feb 21, 2022  |   |   |   |
+| Feb 21, 2022  | Haonan Wang  |   |   |
 | Feb 28, 2022  |   |   |   |
 | Mar 07, 2022  |   |   |   |
 | Mar 14, 2022  |   |   |   |
