@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 21, 2022  |   |   |   |
 | Mar 28, 2022  |   |   |   |
 | Apr 04, 2022  |   |   |   |
-| Apr 11, 2022  |   |   |   |
+| Apr 11, 2022  | Dingsu Wang |   |   |
 | Apr 18, 2022  |   |   |   |
 | Apr 25, 2022  |   |   |   |
 | May 02, 2022  |   |   |   |
