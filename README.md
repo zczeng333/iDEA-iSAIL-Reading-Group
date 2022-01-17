@@ -15,7 +15,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Jan 24, 2022  |   |   |   |
+| Jan 24, 2022  | Yuheng Zhang  |   |   |
 | Jan 31, 2022  |   |   |   |
 | Feb 14, 2022  | Weikai Xu  |   |   |
 | Feb 21, 2022  |   |   |   |
@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 28, 2022  |   |   |   |
 | Apr 04, 2022  |   |   |   |
 | Apr 11, 2022  | Dingsu Wang |   |   |
-| Apr 18, 2022  | Yuheng Zhang  |   |   |
+| Apr 18, 2022  |   |   |   |
 | Apr 25, 2022  |  Lihui Liu |   |   |
 | May 02, 2022  |   |   |   |
 | May 09, 2022  |   |   |   |
