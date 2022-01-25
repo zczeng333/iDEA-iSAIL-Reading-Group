@@ -15,7 +15,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Jan 24, 2022  | Yuheng Zhang  | AAAI Dry Run  |   |
+| Jan 24, 2022  | Yuheng Zhang  | AAAI Dry Run  | [slides](https://www.dropbox.com/s/t7zladht39rk9wb/AAAI22_ActiveGNN.pdf?dl=0)  |
 | Jan 31, 2022  | Tianwen Chen  | Two-sided fairness in rankings via Lorenz dominance  | [paper](https://arxiv.org/abs/2110.15781)  |
 | Feb 14, 2022  | Weikai Xu  |   |   |
 | Feb 21, 2022  |   |   |   |
