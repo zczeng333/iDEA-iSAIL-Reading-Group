@@ -17,7 +17,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :---:         |     :---:      |          :---: |   :---: |
 | Jan 24, 2022  | Yuheng Zhang  | AAAI Dry Run  | [slides](https://www.dropbox.com/s/t7zladht39rk9wb/AAAI22_ActiveGNN.pdf?dl=0)  |
 | Jan 31, 2022  | Tianwen Chen  | Two-sided fairness in rankings via Lorenz dominance  | [paper](https://arxiv.org/abs/2110.15781)  |
-| Feb 21, 2022  | Lihui Liu  |   |   |
+| Feb 21, 2022  | Lihui Liu  | knowledge graph reasoning  |  [paper](https://arxiv.org/abs/2010.11465) |
 | Feb 28, 2022  | Baoyu Jing  |   |   |
 | Mar 07, 2022  | Weikai Xu |   |   |
 | Mar 14, 2022  | Yian Wang  |   |   |
