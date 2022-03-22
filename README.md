@@ -20,8 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 21, 2022  | Lihui Liu  | knowledge graph reasoning  |  [paper](https://arxiv.org/abs/2010.11465) |
 | Feb 28, 2022  | Baoyu Jing  | Clustering Meets Contrastive Learning  | [slides](https://www.dropbox.com/s/x8vkzv1fd3emlgg/clustering%26contrastive_learning.pptx?dl=0)  |
 | Mar 07, 2022  | Weikai Xu |  Inductive Knowledge Graph Embedding |  [slides](https://docs.google.com/presentation/d/1tq902qDG_cb9x_lX6oiRVN4IlvZ9LXnn/edit?usp=sharing&ouid=106313977975956062464&rtpof=true&sd=true) |
-| Mar 14, 2022  | Yian Wang  | Minimax Pareto Fairness: A Multi Objective Perspective  | [slides]
-(https://docs.google.com/presentation/d/1mBbLKVQuuV9qbMcqH25HmeyW1s169RcdOr-QeXco8-Y/edit#slide=id.g117249a2882_0_11)|
+| Mar 14, 2022  | Yian Wang  | Minimax Pareto Fairness: A Multi Objective Perspective  | [slides](https://docs.google.com/presentation/d/1mBbLKVQuuV9qbMcqH25HmeyW1s169RcdOr-QeXco8-Y/edit#slide=id.g117249a2882_0_11)|
 | Mar 21, 2022  |  Yuchen Yan |   |   |
 | Mar 28, 2022  |  Jian Kang, Bolian Li |  WWW Dry Run  |   |
 | Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
