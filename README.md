@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
 | Apr 11, 2022  | Dingsu Wang |   |   |
 | Apr 18, 2022  |  Yikun Ban |   |   |
-| Apr 25, 2022  |  Jian Kang |   |   |
+| Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
 | May 02, 2022  | Wenxuan Bao  |   |   |
 | May 09, 2022  | Lecheng Zheng  |   |   |
 
