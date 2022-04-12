@@ -11,25 +11,24 @@ Unless otherwise notified, our reading group for Fall 2021 is scheduled as follo
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2022:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Jan 24, 2022  |   |   |   |
-| Jan 31, 2022  |   |   |   |
-| Feb 14, 2022  |   |   |   |
-| Feb 21, 2022  |   |   |   |
-| Feb 28, 2022  |   |   |   |
-| Mar 07, 2022  |   |   |   |
-| Mar 14, 2022  |   |   |   |
-| Mar 21, 2022  |   |   |   |
-| Mar 28, 2022  |   |   |   |
-| Apr 04, 2022  |   |   |   |
+| Jan 24, 2022  | Yuheng Zhang  | AAAI Dry Run  | [slides](https://www.dropbox.com/s/t7zladht39rk9wb/AAAI22_ActiveGNN.pdf?dl=0)  |
+| Jan 31, 2022  | Tianwen Chen  | Two-sided fairness in rankings via Lorenz dominance  | [paper](https://arxiv.org/abs/2110.15781)  |
+| Feb 21, 2022  | Lihui Liu  | knowledge graph reasoning  |  [paper](https://arxiv.org/abs/2010.11465) |
+| Feb 28, 2022  | Baoyu Jing  | Clustering Meets Contrastive Learning  | [slides](https://www.dropbox.com/s/x8vkzv1fd3emlgg/clustering%26contrastive_learning.pptx?dl=0)  |
+| Mar 07, 2022  | Weikai Xu |  Inductive Knowledge Graph Embedding |  [slides](https://docs.google.com/presentation/d/1tq902qDG_cb9x_lX6oiRVN4IlvZ9LXnn/edit?usp=sharing&ouid=106313977975956062464&rtpof=true&sd=true) |
+| Mar 14, 2022  | Yian Wang  | Minimax Pareto Fairness: A Multi Objective Perspective  | [slides](https://docs.google.com/presentation/d/1mBbLKVQuuV9qbMcqH25HmeyW1s169RcdOr-QeXco8-Y/edit#slide=id.g117249a2882_0_11)|
+| Mar 21, 2022  |  Yuchen Yan |   |   |
+| Mar 28, 2022  |  Jian Kang, Bolian Li |  WWW Dry Run  |   |
+| Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
 | Apr 11, 2022  | Dingsu Wang |   |   |
-| Apr 18, 2022  |   |   |   |
-| Apr 25, 2022  |   |   |   |
-| May 02, 2022  |   |   |   |
-| May 09, 2022  |   |   |   |
+| Apr 18, 2022  |  Yikun Ban |   |   |
+| Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
+| May 02, 2022  | Wenxuan Bao  |   |   |
+| May 09, 2022  | Lecheng Zheng  |   |   |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
 
