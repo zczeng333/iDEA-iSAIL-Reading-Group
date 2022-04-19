@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 28, 2022  |  Jian Kang, Bolian Li |  WWW Dry Run  |   |
 | Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
 | Apr 11, 2022  | Dingsu Wang | Path Based Methods for Link Prediction  | [slides](https://drive.google.com/file/d/1AJbvq7MimYiTiYA5vjWbCySeTkLa_pMn/view?usp=sharing)  |
-| Apr 18, 2022  |  Yikun Ban |   |   |
+| Apr 18, 2022  |  Yikun Ban | Neural Active Learning with Performance Guarantee |  [slides](https://github.com/banyikun/banyikun.github.io/blob/master/slides/GroupPre%200418.pdf) |
 | Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
 | May 02, 2022  | Wenxuan Bao  |   |   |
 | May 09, 2022  | Lecheng Zheng  |   |   |
