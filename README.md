@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 18, 2022  |  Yikun Ban | Neural Active Learning with Performance Guarantee |  [slides](https://github.com/banyikun/banyikun.github.io/blob/master/slides/GroupPre%200418.pdf) |
 | Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
 | Apr 26, 2022  |  Qinghai Zhou | Preliminary exam dry run |   |
-| May 02, 2022  | Wenxuan Bao  |   |   |
+| May 02, 2022  | Wenxuan Bao  | Federated Learning with Knowledge Distillation | [slides](https://uillinoisedu-my.sharepoint.com/:b:/g/personal/wbao4_illinois_edu/ETZdDHoSocRIqKCpO2z9rYMBlR-DI4B39RZnjJerdKU_Mg?e=uXjVGO) |
 | May 09, 2022  | Lecheng Zheng  |   |   |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
@@ -76,7 +76,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Feb 22, 2021   | Lecheng Zheng | Contrastive Learning  |  [SupCon](https://arxiv.org/abs/2004.11362),[SimCLR](https://arxiv.org/pdf/2002.05709.pdf), [CPC](https://arxiv.org/abs/1807.03748), [MOCO](https://arxiv.org/abs/1911.05722)  |
-| Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf) |
+| Mar 1, 2021   |  Wenxuan Bao   | Robustness on Federated Learning | [Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf), [Slides](https://uillinoisedu-my.sharepoint.com/:b:/g/personal/wbao4_illinois_edu/EZIUnR-NLd1AuF48l4iql64B9ECdffqotk-f-edABOEvBw?e=dxkkDu) |
 | Mar 8, 2021   |   Jian Kang  |  Neural Tangent Kernel  |  [Slides](https://www.dropbox.com/s/hwr8tybxuhb9lb3/ntk.pptx?dl=0)  |
 | Mar 15, 2021   |  Yuchen Yan   | Positional Embedding and Structural Embedding in Graphs   |  [Position Aware GNN](https://arxiv.org/pdf/1906.04817.pdf)|
 | Mar 22, 2021   |  Lecheng Zheng,   | WWW Dry Run   |    |
