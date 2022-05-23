@@ -7,7 +7,7 @@ Time: 9:30pm - 10:30pm CDT, every Monday.
 
 Zoom: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for Fall 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email Dongqi Fu (dongqif2 [at] illinois [dot] edu). </span>
+Unless otherwise notified, our reading group for Fall 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
 | Apr 26, 2022  |  Qinghai Zhou | Preliminary exam dry run |   |
 | May 02, 2022  | Wenxuan Bao  | Federated Learning with Knowledge Distillation | [slides](https://uillinoisedu-my.sharepoint.com/:b:/g/personal/wbao4_illinois_edu/ETZdDHoSocRIqKCpO2z9rYMBlR-DI4B39RZnjJerdKU_Mg?e=uXjVGO) |
-| May 09, 2022  | Lecheng Zheng  |   |   |
+| May 09, 2022  | Lecheng Zheng  | Partial Label Learning  |  [slides](https://docs.google.com/presentation/d/1AxZWsoKQB87z_-OeMJRqhUjadS4Cm3hD/edit?usp=sharing&ouid=100659429194253784400&rtpof=true&sd=true) |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2021:</span>
 
