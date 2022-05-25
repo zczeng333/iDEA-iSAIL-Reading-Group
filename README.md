@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jul 06 (Wed), 2022 |  |  |   |
 | Jul 11 (Mon), 2022 |  |  |   |
 | Jul 13 (Wed), 2022 |  |  |   |
-| Jul 18 (Mon), 2022 |  |  |   |
+| Jul 18 (Mon), 2022 | Yunzhe Qi | KDD Dry Run |   |
 | Jul 20 (Wed), 2022 |  |  |   |
 | Jul 25 (Mon), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
 | Jul 27 (Wed), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
