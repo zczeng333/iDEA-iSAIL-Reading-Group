@@ -15,7 +15,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
-| Jun 08 (Wed), 2022  | Ziwei Wu  | FaccT Dry Run  | |
+| Jun 08 (Wed), 2022  | Ziwei Wu  | FccT Dry Run  | |
 | Jun 13 (Mon), 2022  | Jun Wu  | IJCAI Dry Run  |  |
 | Jun 16 (Wed), 2022  |  | |  |
 | Jun 20 (Mon), 2022  | |  |  |
