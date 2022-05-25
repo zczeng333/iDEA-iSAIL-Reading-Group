@@ -7,11 +7,28 @@ Time: 9:30pm - 10:30pm CDT, every Monday.
 
 Zoom: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for Fall 2021 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
+Unless otherwise notified, our reading group for Summer 2022 is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2022:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jun 08 (Wed), 2022  | Ziwei Wu  | FaccT Dry Run  | |
+| Jun 13 (Mon), 2022  |   |   |  |
+| Jun 16 (Wed), 2022  |  | |  |
+| Jun 20 (Mon), 2022  | |  |  |
+| Jun 22 (Wed), 2022  | Dongqi Fu | KDD Dry Run  |  |
+| Jun 27 (Mon), 2022  | Lecheng Zheng  | KDD Dry Run | |
+| Jun 29 (Wed), 2022  |  |  |   |
+| Jul 06 (Wed), 2022 |  |  |   |
+| Jul 11 (Mon), 2022 |  |  |   |
+| Jul 13 (Wed), 2022 |  |  |   |
+| Jul 18 (Mon), 2022 |  |  |   |
+| Jul 20 (Wed), 2022 |  |  |   |
+| Jul 25 (Mon), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
+| Jul 27 (Wed), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
