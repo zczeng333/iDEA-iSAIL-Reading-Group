@@ -16,13 +16,13 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Jun 08 (Wed), 2022  | Ziwei Wu  | FaccT Dry Run  | |
-| Jun 13 (Mon), 2022  |   |   |  |
+| Jun 13 (Mon), 2022  | Jun Wu  | IJCAI Dry Run  |  |
 | Jun 16 (Wed), 2022  |  | |  |
 | Jun 20 (Mon), 2022  | |  |  |
 | Jun 22 (Wed), 2022  | Dongqi Fu | KDD Dry Run  |  |
 | Jun 27 (Mon), 2022  | Lecheng Zheng  | KDD Dry Run | |
 | Jun 29 (Wed), 2022  |  |  |   |
-| Jul 06 (Wed), 2022 |  |  |   |
+| Jul 06 (Wed), 2022 | Jun Wu | KDD Dry Run |   |
 | Jul 11 (Mon), 2022 |  |  |   |
 | Jul 13 (Wed), 2022 | Tianxin Wei | KDD Dry Run |   |
 | Jul 18 (Mon), 2022 | Yunzhe Qi | KDD Dry Run |   |
