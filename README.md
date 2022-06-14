@@ -11,18 +11,18 @@ Unless otherwise notified, our reading group for Summer 2022 is scheduled as fol
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2022:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Jun 08 (Wed), 2022  | Ziwei Wu  | FAccT Dry Run  | |
 | Jun 13 (Mon), 2022  | Jun Wu  | IJCAI Dry Run  |  |
-| Jun 16 (Wed), 2022  |  |   |  |
+| Jun 16 (Wed), 2022  | Prof. Yuan Yao' s Group | KDD Dry Run  |  |
 | Jun 20 (Mon), 2022  | Lihui Liu | KDD Dry Run |  |
 | Jun 22 (Wed), 2022  | Dongqi Fu | KDD Dry Run  |  |
 | Jun 27 (Mon), 2022  | Lecheng Zheng  | KDD Dry Run | |
 | Jun 29 (Wed), 2022  | Haoran Li | KDD Dry Run |   |
-| Jul 06 (Wed), 2022 | Baoyu Jing | Proposal Dry Run |   |
+<!-- | Jul 06 (Wed), 2022 | Baoyu Jing | Proposal Dry Run |   | -->
 | Jul 11 (Mon), 2022 | Jun Wu | KDD Dry Run |   |
 | Jul 13 (Wed), 2022 | Tianxin Wei | KDD Dry Run |   |
 | Jul 18 (Mon), 2022 | Yunzhe Qi | KDD Dry Run |   |
