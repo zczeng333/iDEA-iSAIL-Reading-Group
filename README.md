@@ -28,6 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jul 20 (Wed), 2022 | Qinghai Zhou | KDD Dry Run |   |
 | Jul 25 (Mon), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
 | Jul 27 (Wed), 2022 | Jian Kang | KDD Tutorial Dry Run |   |
+| Aug 08 (Mon), 2022 | Jian Kang | KDD Dry Run |   |
 
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
