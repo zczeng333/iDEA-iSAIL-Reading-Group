@@ -7,7 +7,7 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 **Room**: 4403 Siebel
 
-**Zoom (back-up)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
+**Zoom (if online again)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
 Unless otherwise notified, our reading group for **Fall 2022** is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
 
