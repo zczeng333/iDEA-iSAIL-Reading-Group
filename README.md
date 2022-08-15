@@ -11,6 +11,25 @@ Unless otherwise notified, our reading group for Summer 2022 is scheduled as fol
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2022:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Aug 25, 2022  | All members | Ice-breaking | |
+| Sep 01, 2022  |  |  |  |
+| Sep 08, 2022  |  |  |  |
+| Sep 15, 2022  |  |  |  |
+| Sep 22, 2022  |  |  |  |
+| Sep 29, 2022  |  |  |  |
+| Oct 06, 2022  |  |  |  |
+| Oct 13, 2022  |  |  |  |
+| Oct 20, 2022  |  |  |  |
+| Oct 27, 2022  |  |  |  |
+| Nov 03, 2022  |  |  |  |
+| Nov 10, 2022  |  |  |  |
+| Nov 17, 2022  |  |  |  |
+| Dec 01, 2022  |  |  |  |
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
 
 | Dates | Presenters | Topics | Materials|
