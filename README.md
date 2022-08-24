@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 25, 2022  | All members | Ice-breaking | |
 | Sep 01, 2022  |  |  |  |
 | Sep 08, 2022  |  |  |  |
-| Sep 15, 2022  |  |  |  |
+| Sep 15, 2022  | Jun Wu |  |  |
 | Sep 22, 2022  |  |  |  |
 | Sep 29, 2022  |  |  |  |
 | Oct 06, 2022  |  |  |  |
