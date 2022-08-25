@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 22, 2022  |  |  |  |
 | Sep 29, 2022  | Lecheng Zheng | CIKM Dry Run |  |
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
-| Oct 13, 2022  |  |  |  |
+| Oct 13, 2022  | Zhichen Zeng |  |  |
 | Oct 20, 2022  | Zhe Xu |  |  |
 | Oct 27, 2022  |  |  |  |
 | Nov 03, 2022  |  |  |  |
