@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 03, 2022  |  |  |  |
 | Nov 10, 2022  |  |  |  |
 | Nov 17, 2022  |  |  |  |
-| Dec 01, 2022  |  |  |  |
+| Dec 01, 2022  | Yikun Ban |  |  |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
 
