@@ -18,18 +18,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Aug 25, 2022  | All members | Ice-breaking | |
-| Sep 01, 2022  |  |  |  |
+| Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs |  |
 | Sep 08, 2022  |  |  |  |
 | Sep 15, 2022  | Jun Wu |  |  |
 | Sep 22, 2022  |  |  |  |
 | Sep 29, 2022  | Lecheng Zheng | CIKM Dry Run |  |
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
-| Oct 13, 2022  |  |  |  |
+| Oct 13, 2022  | Zhichen Zeng |  |  |
 | Oct 20, 2022  | Zhe Xu |  |  |
 | Oct 27, 2022  |  |  |  |
 | Nov 03, 2022  |  |  |  |
-| Nov 10, 2022  |  |  |  |
-| Nov 17, 2022  |  |  |  |
+| Nov 10, 2022  | Alex Zheng |  |  |
+| Nov 17, 2022  |  Ishika Agarwal |  |  |
 | Dec 01, 2022  | Yikun Ban |  |  |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
