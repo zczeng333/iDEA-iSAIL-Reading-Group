@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs |  |
 | Sep 08, 2022  |  |  |  |
 | Sep 15, 2022  | Jun Wu |  |  |
-| Sep 22, 2022  |  |  |  |
+| Sep 22, 2022  | Derek Wang |  |  |
 | Sep 29, 2022  | Lecheng Zheng | CIKM Dry Run |  |
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
 | Oct 13, 2022  | Zhichen Zeng |  |  |
@@ -62,7 +62,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 21, 2022  |  Yuchen Yan | A Principle for Negative Sampling in Graph-based Recommendations  |  [slides](https://drive.google.com/file/d/1u6hCxkFlSe_icMMcT_nZ_fkVU06xAV83/view?usp=sharing)  |
 | Mar 28, 2022  |  Jian Kang, Bolian Li |  WWW Dry Run  |   |
 | Apr 04, 2022  |  Shengyu Feng, Zhe Xu |  WWW Dry Run  |   |
-| Apr 11, 2022  | Dingsu Wang | Path Based Methods for Link Prediction  | [slides](https://drive.google.com/file/d/1AJbvq7MimYiTiYA5vjWbCySeTkLa_pMn/view?usp=sharing)  |
+| Apr 11, 2022  | Derek Wang | Path Based Methods for Link Prediction  | [slides](https://drive.google.com/file/d/1AJbvq7MimYiTiYA5vjWbCySeTkLa_pMn/view?usp=sharing)  |
 | Apr 18, 2022  |  Yikun Ban | Neural Active Learning with Performance Guarantee |  [slides](https://github.com/banyikun/banyikun.github.io/blob/master/slides/GroupPre%200418.pdf) |
 | Apr 25, 2022  |  Jian Kang | Preliminary exam dry run |   |
 | Apr 26, 2022  |  Qinghai Zhou | Preliminary exam dry run |   |
