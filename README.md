@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :---:         |     :---:      |          :---: |   :---: |
 | Aug 25, 2022  | All members | Ice-breaking | |
 | Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs |  |
-| Sep 08, 2022  |  |  |  |
+| Sep 08, 2022  | Hyunsik Yoo |  |  |
 | Sep 15, 2022  | Jun Wu |  |  |
 | Sep 22, 2022  |  |  |  |
 | Sep 29, 2022  | Lecheng Zheng | CIKM Dry Run |  |
