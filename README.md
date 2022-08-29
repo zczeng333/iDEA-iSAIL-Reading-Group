@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 13, 2022  | Zhichen Zeng |  |  |
 | Oct 20, 2022  | Zhe Xu |  |  |
 | Oct 27, 2022  | Yian Wang |  |  |
-| Nov 03, 2022  |  |  |  |
+| Nov 03, 2022  | Isaac Joy |  |  |
 | Nov 10, 2022  | Alex Zheng |  |  |
 | Nov 17, 2022  |  Ishika Agarwal |  |  |
 | Dec 01, 2022  | Yikun Ban |  |  |
