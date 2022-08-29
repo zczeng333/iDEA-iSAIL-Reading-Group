@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
 | Oct 13, 2022  | Zhichen Zeng |  |  |
 | Oct 20, 2022  | Zhe Xu |  |  |
-| Oct 27, 2022  |  |  |  |
+| Oct 27, 2022  | Yian Wang |  |  |
 | Nov 03, 2022  |  |  |  |
 | Nov 10, 2022  | Alex Zheng |  |  |
 | Nov 17, 2022  |  Ishika Agarwal |  |  |
