@@ -18,7 +18,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dates | Presenters | Topics | Materials|
 | :---:         |     :---:      |          :---: |   :---: |
 | Aug 25, 2022  | All members | Ice-breaking | |
-| Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs |  |
+| Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220901.pdf)  |
 | Sep 08, 2022  | Hyunsik Yoo |  |  |
 | Sep 15, 2022  | Jun Wu |  |  |
 | Sep 22, 2022  | Derek Wang |  |  |
