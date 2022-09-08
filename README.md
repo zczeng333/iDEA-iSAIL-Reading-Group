@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :---:         |     :---:      |          :---: |   :---: |
 | Aug 25, 2022  | All members | Ice-breaking | |
 | Sep 01, 2022  | Jian Kang | Machine Unlearning on Graphs | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220901.pdf)  |
-| Sep 08, 2022  | Hyunsik Yoo |  |  |
+| Sep 08, 2022  | Hyunsik Yoo | Directed Network Embedding with Virtual Negative Edges | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220908.pdf) |
 | Sep 15, 2022  | Jun Wu |  |  |
 | Sep 22, 2022  | Derek Wang |  |  |
 | Sep 29, 2022  | Lecheng Zheng | CIKM Dry Run |  |
