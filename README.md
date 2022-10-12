@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 08, 2022  | Hyunsik Yoo | Directed Network Embedding with Virtual Negative Edges | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220908.pdf) |
 | Sep 15, 2022  | Jun Wu | CIKM Dry Run |  |
 | Sep 22, 2022  | Lecheng Zheng | CIKM Dry Run |  |
-| Sep 29, 2022  | Derek Wang |  |  |
+| Sep 29, 2022  | Derek Wang | Source Localization of Graph Diffusion | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220929.pdf) |
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
 | Oct 13, 2022  | Zhichen Zeng |  |  |
 | Oct 20, 2022  | Zhe Xu |  |  |
