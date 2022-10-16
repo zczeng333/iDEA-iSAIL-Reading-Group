@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 22, 2022  | Lecheng Zheng | CIKM Dry Run |  |
 | Sep 29, 2022  | Derek Wang | Source Localization of Graph Diffusion | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20220929.pdf) |
 | Oct 06, 2022  | Yuchen Yan | CIKM Dry Run |  |
-| Oct 13, 2022  | Zhichen Zeng |  |  |
+| Oct 13, 2022  | Zhichen Zeng | Fused Gromov-Wasserstein Barycenter  | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221013.pdf) |
 | Oct 20, 2022  | Zhe Xu |  |  |
 | Oct 27, 2022  | Yian Wang |  |  |
 | Nov 03, 2022  | Isaac Joy |  |  |
