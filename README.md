@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 27, 2022  | Yian Wang | Shift-Robust GNNs | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221027.pdf) |
 | Nov 03, 2022  | Isaac Joy |  |  |
 | Nov 10, 2022  | Jun Wu | Preliminary Dry Run |  |
-| Nov 17, 2022  | Yikun Ban  |  |  |
+| Nov 17, 2022  | Yikun Ban  | Preliminary Dry Run |  |
 | Dec 01, 2022  |  Ishika Agarwal |  |  |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
