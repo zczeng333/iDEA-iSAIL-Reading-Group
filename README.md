@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 13, 2022  | Zhichen Zeng | Fused Gromov-Wasserstein Barycenter  | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221013.pdf) |
 | Oct 20, 2022  | Zhe Xu | Generalized Few-Shot Node Classification | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221020.pdf) |
 | Oct 27, 2022  | Yian Wang | Shift-Robust GNNs | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221027.pdf) |
-| Nov 03, 2022  | Isaac Joy | Intersection Between Consumer Law and Artificial Intelligence | [Slides]() |
+| Nov 03, 2022  | Isaac Joy | Intersection Between Consumer Law and Artificial Intelligence | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221103.pptx) |
 | Nov 10, 2022  | Jun Wu | Preliminary Dry Run |  |
 | Nov 17, 2022  | Yikun Ban  | Preliminary Dry Run |  |
 | Dec 01, 2022  |  Ishika Agarwal |  |  |
