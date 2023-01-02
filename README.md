@@ -5,13 +5,36 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 **Time**: 9:00am - 10:00am CDT, every Thursday.
 
-**Room**: 4403 Siebel
+**Room**: 2405 Siebel
 
-**Zoom (if online again)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
+**Zoom (if online)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
 Unless otherwise notified, our reading group for **Fall 2022** is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2022:</span>
+
+| Dates | Presenters | Topics | Materials|
+| :---:         |     :---:      |          :---: |   :---: |
+| Jan 19, 2023  |  |  | |
+| Jan 26, 2023  |  |  |  |
+| Feb 02, 2023  |  |  |  |
+| Feb 09, 2023  |  |  |  |
+| Feb 16, 2023  | Dongqi Fu | WSDM Tutorial Dry Run |  |
+| Feb 23, 2023  | Zhe Xu | WSDM Tutorial Dry Run | |
+| Mar 02, 2023  |  |  |  |
+| Mar 09, 2023  | |  |  |
+| Mar 16, 2022  |  | |  |
+| Mar 23, 2022  |  |  |  |
+| Mar 30, 2022  |  |  |  |
+| Apr 06, 2022  |  |  |  |
+| Apr 13, 2022  | |  |  |
+| Apr 20, 2022  |   |   |  |
+| Apr 27, 2022  |  |   |  |
+| May 04, 2022  |   |   |  |
+| May 11, 2022  |   |   | |
+
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2022:</span>
 
@@ -30,7 +53,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 03, 2022  | Isaac Joy | Intersection Between Consumer Law and Artificial Intelligence | [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20221103.pptx) |
 | Nov 10, 2022  | Jun Wu | Preliminary Dry Run |  |
 | Nov 17, 2022  | Yikun Ban  | Preliminary Dry Run |  |
-| Dec 01, 2022  |  Ishika Agarwal | Green Deep Learning  |  |
+| Dec 01, 2022  |  Ishika Agarwal | Green Deep Learning  | [Survey](https://arxiv.org/pdf/2111.05193.pdf) |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Summer 2022:</span>
 
