@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 23, 2022  |  |  |  |
 | Mar 30, 2022  |  |  |  |
 | Apr 06, 2022  |  |  |  |
-| Apr 13, 2022  | |  |  |
+| Apr 13, 2022  | Lecheng Zheng | SDM Tutorial Dry Run |  |
 | Apr 20, 2022  |   |   |  |
 | Apr 27, 2022  |  |   |  |
 | May 04, 2022  |   |   |  |
