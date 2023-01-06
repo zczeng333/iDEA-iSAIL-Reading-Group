@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :---:         |     :---:      |          :---: |   :---: |
 | Jan 19, 2023  |  |  | |
 | Jan 26, 2023  |  |  |  |
-| Feb 02, 2023  |  |  |  |
+| Feb 02, 2023  | Jun Wu |  |  |
 | Feb 09, 2023  |  |  |  |
 | Feb 16, 2023  | Dongqi Fu | WSDM Tutorial Dry Run |  |
 | Feb 23, 2023  | Zhe Xu | WSDM Tutorial Dry Run | |
