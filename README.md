@@ -14,7 +14,7 @@ Unless otherwise notified, our reading group for **Fall 2022** is scheduled as f
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2022:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2023:</span>
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
