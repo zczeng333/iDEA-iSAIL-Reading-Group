@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 02, 2023 |               |                       |           |
 | Mar 09, 2023 |               |                       |           |
 | Mar 16, 2022 |               |                       |           |
-| Mar 23, 2022 |               |                       |           |
+| Mar 23, 2022 |    Yuheng Zhang           |                       |           |
 | Mar 30, 2022 |  Blaine Hill  |          TBD          |    TBD    |
 | Apr 06, 2022 | Lecheng Zheng |   SDM Paper Dry Run   |           |
 | Apr 13, 2022 | Lecheng Zheng | SDM Tutorial Dry Run  |           |
