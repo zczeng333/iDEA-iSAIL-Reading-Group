@@ -34,7 +34,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 20, 2022 |  Alex Zheng   |                       |           |
 | Apr 27, 2022 | Wenxuan Bao |                       |           |
 | May 04, 2022 |               |                       |           |
-| May 11, 2022 |               |                       |           |
+| May 11, 2022 |       Yunzhe Qi        |                       |           |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2022:</span>
 
