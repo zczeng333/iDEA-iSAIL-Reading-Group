@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Jan 19, 2023 |   Professors            |   Heterogeneous Data Fusion                    |           |
-| Jan 26, 2023 |               |                       |           |
+| Jan 26, 2023 |  Chao Pan             |    Graph Unlearning                   |           |
 | Feb 02, 2023 |   Hyunsik Yoo   |                       |           |
 | Feb 09, 2023 |   Ruike Zhu            |                       |           |
 | Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |           |
