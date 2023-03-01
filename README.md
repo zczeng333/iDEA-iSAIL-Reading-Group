@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |           |
 | Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |           |
 | Mar 02, 2023 |    Ruizhong Qiu           |                       |           |
-| Mar 09, 2023 |  David Zhou   |                       |           |
+| Mar 09, 2023 |  Jiang Kang    | Job Talk Dry Run                      |           |
 | Mar 16, 2022 |  Xinrui He             |                       |           |
 | Mar 23, 2022 |    Yuheng Zhang / Eunice Chan          |                       |           |
 | Mar 30, 2022 |  Blaine Hill  |          TBD          |    TBD    |
