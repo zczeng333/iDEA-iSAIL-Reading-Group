@@ -22,8 +22,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 26, 2023 |  Chao Pan             |    Graph Unlearning                   |           |
 | Feb 02, 2023 |   Hyunsik Yoo   |                       |           |
 | Feb 09, 2023 |   Ruike Zhu            |      |           |
-| Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |           |
-| Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |           |
+| Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)       |
+| Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)         |
 | Mar 02, 2023 |    Ruizhong Qiu  |Meta Solver for Combinatorial Optimization Problems|    [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230302.pdf)       |
 | Mar 09, 2023 |  Jiang Kang    | Job Talk Dry Run                      |           |
 | Mar 16, 2022 |  Xinrui He             |                       |           |
