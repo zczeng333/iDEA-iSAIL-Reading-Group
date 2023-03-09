@@ -21,7 +21,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 19, 2023 |   Professors            |   Heterogeneous Data Fusion                    |           |
 | Jan 26, 2023 |  Chao Pan             |    Graph Unlearning                   |   [Speaker Info](https://scholar.google.com/citations?user=M3T3YPIAAAAJ&hl=en)        |
 | Feb 02, 2023 |   Hyunsik Yoo   |                       |           |
-| Feb 09, 2023 |   Ruike Zhu            |      |           |
+| Feb 09, 2023 |   Ruike Zhu            |  Online Graph Dictionary Learning    |  [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230209.pdf)         |
 | Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)       |
 | Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)         |
 | Mar 02, 2023 |    Ruizhong Qiu  |Meta Solver for Combinatorial Optimization Problems|    [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230302.pdf)       |
