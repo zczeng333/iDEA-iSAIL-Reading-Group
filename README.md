@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 26, 2023 |    |          |    |
 | Nov 02, 2023 |  |      |           |
 | Nov 09, 2023 |  |   |           |
-| Nov 16, 2023 |    |                       |           |
+| Nov 16, 2023 | Ziwei Wu   |                       |           |
 | Nov 23, 2023 |  |  |  |
 | Nov 30, 2023 |  |                       |           |
 | Dec 07, 2023 |             |                       |           |
