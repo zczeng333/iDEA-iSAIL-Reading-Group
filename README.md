@@ -14,7 +14,37 @@ Unless otherwise notified, our reading group for **Fall 2022** is scheduled as f
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
-### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2023:</span>
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2023:</span>
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| Aug 24, 2023 |   All members       |   Annual Lab Workshop                    |           |
+| Aug 31, 2023 |  Tianxin Wei, Wenxuan Bao, Zhichen Zeng             |    ICML Conference Experience Sharing       |    |
+| Sep 07, 2023 |    |     |          |
+| Sep 14, 2023 |         |    |         |
+| Sep 21, 2023 |    |  |         |
+| Sep 28, 2023 |     |  |             |
+| Oct 05, 2023 |      | |         |
+| Oct 12, 2023 |     |                      |           |
+| Oct 19, 2023 |      |             |          |
+| Oct 26, 2023 |    |          |    |
+| Nov 02, 2023 |  |      |           |
+| Nov 09, 2023 |  |   |           |
+| Nov 16, 2023 |    |                       |           |
+| Nov 23, 2023 |  |  |  |
+| Nov 30, 2023 |  |                       |           |
+| Dec 07, 2023 |             |                       |           |
+| Dec 14, 2023 |             |                       |           |
+| Dec 21, 2023 |              |                       |           |
+| Dec 28, 2023 |           |                       |           |
+| Jan 04, 2024 |            |                       |           |
+| Jan 11, 2024 |            |                       |           |
+| Jan 18, 2024 |           |                       |           |
+| Jan 25, 2024 |         |                       |           |
+| Feb 01, 2024 |             |                       |           |
+| Feb 08, 2024 |           |                       |           |
+| Feb 15, 2024 |             |                       |           |
+| Feb 22, 2024 |            |                       |           |
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
@@ -25,7 +55,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 16, 2023 |   Dongqi Fu   | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)       |
 | Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)         |
 | Mar 02, 2023 |    Ruizhong Qiu  |Meta Solver for Combinatorial Optimization Problems|    [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230302.pdf)       |
-| Mar 09, 2023 |  Jiang Kang    | Job Talk Dry Run                      |           |
+| Mar 09, 2023 |  Jian Kang    | Job Talk Dry Run                      |           |
 | Mar 23, 2022 |  Eunice Chan          |      Fair Active Learning                 |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230323.pdf)        |
 | Mar 30, 2022 |  Blaine Hill / Xinrui He  |          TBD          |    TBD    |
 | Apr 06, 2022 | Lecheng Zheng |   SDM Paper Dry Run   |           |
