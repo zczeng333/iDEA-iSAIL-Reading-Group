@@ -46,6 +46,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 15, 2024 |             |                       |           |
 | Feb 22, 2024 |            |                       |           |
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2023:</span>
+
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Jan 19, 2023 |   Professors            |   Heterogeneous Data Fusion                    |           |
