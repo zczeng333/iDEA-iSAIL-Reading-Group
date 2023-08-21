@@ -31,7 +31,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 02, 2023 |  |      |           |
 | Nov 09, 2023 |  |   |           |
 | Nov 16, 2023 | Ziwei Wu   |                       |           |
-| Nov 23, 2023 |  |  |  |
+| Nov 23, 2023 | Jun Wu |  |  |
 | Nov 30, 2023 | Tianxin Wei |                       |           |
 | Dec 07, 2023 |             |                       |           |
 | Dec 14, 2023 |             |                       |           |
