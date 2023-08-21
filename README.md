@@ -36,7 +36,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Dec 07, 2023 |             |                       |           |
 | Dec 14, 2023 |             |                       |           |
 | Dec 21, 2023 |              |                       |           |
-| Dec 28, 2023 |           |                       |           |
+| Dec 28, 2023 |  Eunice Chan         |                       |           |
 | Jan 04, 2024 |            |                       |           |
 | Jan 11, 2024 |            |                       |           |
 | Jan 18, 2024 |           |                       |           |
