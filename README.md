@@ -6,7 +6,7 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 **Time**: 9:00am - 10:00am CDT, every Thursday.
 
-**Room**: 2405 Siebel
+**Room**: 2124 Siebel
 
 **Zoom (if online)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
