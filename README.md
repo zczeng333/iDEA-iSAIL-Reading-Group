@@ -22,9 +22,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 31, 2023 |  Tianxin Wei, Wenxuan Bao, Zhichen Zeng             |    ICML Conference Experience Sharing       |    |
 | Sep 07, 2023 |    |     |          |
 | Sep 14, 2023 |         |    |         |
-| Sep 21, 2023 | Dongqi Fu   |  |         |
+| Sep 21, 2023 |   |  |         |
 | Sep 28, 2023 |     |  |             |
-| Oct 05, 2023 |      | |         |
+| Oct 05, 2023 | Dongqi Fu  | |         |
 | Oct 12, 2023 |     |                      |           |
 | Oct 19, 2023 |      |             |          |
 | Oct 26, 2023 |    |          |    |
