@@ -26,8 +26,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 28, 2023 |     |  |             |
 | Oct 05, 2023 | Dongqi Fu  | |         |
 | Oct 12, 2023 |     |                      |           |
-| Oct 19, 2023 |      |             |          |
-| Oct 26, 2023 |    |          |    |
+| Oct 19, 2023 | Zhining Liu     |             |          |
+| Oct 26, 2023 | Yuchen Yan |          |    |
 | Nov 02, 2023 | Lecheng Zheng |      |           |
 | Nov 09, 2023 | Zhe Xu |   |           |
 | Nov 16, 2023 | Ziwei Wu   |                       |           |
