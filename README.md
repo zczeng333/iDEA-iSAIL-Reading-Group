@@ -34,7 +34,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Nov 23, 2023 | Jun Wu |  |  |
 | Nov 30, 2023 | Tianxin Wei |                       |           |
 | Jan 11, 2024 |   Xiao Lin         |                       |           |
-| Jan 18, 2024 |           |                       |           |
+| Jan 18, 2024 |   Xinyu He        |                       |           |
 | Jan 25, 2024 |         |                       |           |
 | Feb 01, 2024 |             |                       |           |
 | Feb 08, 2024 |           |                       |           |
