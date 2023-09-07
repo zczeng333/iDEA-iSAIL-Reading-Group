@@ -22,7 +22,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Aug 31, 2023 |  Tianxin Wei, Wenxuan Bao, Zhichen Zeng             |    ICML Conference Debriefing      |    |
 | Sep 07, 2023 |    |  KDD Conference Debriefing   |          |
 | Sep 14, 2023 |Zihao Wang| Query knowledge graph with learning| [slides](https://hkustconnect-my.sharepoint.com/:p:/g/personal/zwanggc_connect_ust_hk/EXH22oFM8zlLheoeENuHWsoBk8W8FuDiTJBgrHIQEi9WlA?e=6okjVT) |
-| Sep 21, 2023 |   |  |         |
+| Sep 21, 2023 |   | KDD Conference Debriefing (Part II) |         |
 | Sep 28, 2023 |     |  |             |
 | Oct 05, 2023 | Dongqi Fu  | |         |
 | Oct 12, 2023 |     |                      |           |
