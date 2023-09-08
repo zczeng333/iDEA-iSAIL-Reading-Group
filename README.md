@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 21, 2023 |   | KDD Conference Debriefing (Cont.) |         |
 | Sep 28, 2023 |     |  |             |
 | Oct 05, 2023 | Dongqi Fu  | |         |
-| Oct 12, 2023 |     |                      |           |
+| Oct 12, 2023 | Zhichen Zeng|                      |           |
 | Oct 19, 2023 | Zhining Liu     |             |          |
 | Oct 26, 2023 | Yuchen Yan |          |    |
 | Nov 02, 2023 | Lecheng Zheng |      |           |
