@@ -23,7 +23,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 07, 2023 | Ruizhong Qiu, Zhe Xu   |  KDD Conference Debriefing   |          |
 | Sep 14, 2023 |Zihao Wang| Query knowledge graph with learning| [slides](https://hkustconnect-my.sharepoint.com/:p:/g/personal/zwanggc_connect_ust_hk/EXH22oFM8zlLheoeENuHWsoBk8W8FuDiTJBgrHIQEi9WlA?e=6okjVT) |
 | Sep 21, 2023 | Yunzhe Qi, Lihui Liu, Jun Wu  | KDD Conference Debriefing (Cont.) |         |
-| Sep 28, 2023 | Jun-Gi Jang    |Efficient Tensor Decomposition  |             |
+| Sep 28, 2023 | Jun-Gi Jang    |Efficient Tensor Decomposition  |  [slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230928.pdf)           |
 | Oct 05, 2023 | Dongqi Fu  | |         |
 | Oct 12, 2023 | Zhichen Zeng|                      |           |
 | Oct 19, 2023 | Zhining Liu     |             |          |
