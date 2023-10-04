@@ -20,9 +20,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Aug 24, 2023 |   All members       |   Annual Lab Workshop                    |   [Recording](https://www.dropbox.com/scl/fi/cqysa0fyrnww2a3m5v7xd/workshop_08242023.mp4?rlkey=mvv8k30dx9itco01sj1fcxlff&dl=0)        |
 | Aug 31, 2023 |  Tianxin Wei, Wenxuan Bao, Zhichen Zeng             |    ICML Conference Debriefing      | [slides](https://docs.google.com/presentation/d/1gT1MyWbP_sFBRjDoPjxiIwK91XmtW3losRJPefJhBl0/edit?usp=sharing)   |
-| Sep 07, 2023 | Ruizhong Qiu, Zhe Xu   |  KDD Conference Debriefing   |          |
+| Sep 07, 2023 | Ruizhong Qiu, Zhe Xu   |  KDD Conference Debriefing   |   [slides](https://docs.google.com/presentation/d/17KWEPk1IFn1iceORt7VC5LofjIAU_toiY134TebYgQo/edit?usp=sharing)       |
 | Sep 14, 2023 |Zihao Wang| Query knowledge graph with learning| [slides](https://hkustconnect-my.sharepoint.com/:p:/g/personal/zwanggc_connect_ust_hk/EXH22oFM8zlLheoeENuHWsoBk8W8FuDiTJBgrHIQEi9WlA?e=6okjVT) |
-| Sep 21, 2023 | Yunzhe Qi, Lihui Liu, Jun Wu  | KDD Conference Debriefing (Cont.) |         |
+| Sep 21, 2023 | Yunzhe Qi, Lihui Liu, Jun Wu  | KDD Conference Debriefing (Cont.) |    [slides](https://docs.google.com/presentation/d/17KWEPk1IFn1iceORt7VC5LofjIAU_toiY134TebYgQo/edit?usp=sharing)     |
 | Sep 28, 2023 | Jun-Gi Jang    |Efficient Tensor Decomposition  |  [slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230928.pdf)           |
 | Oct 05, 2023 | Dongqi Fu  | |         |
 | Oct 12, 2023 | Zhichen Zeng|                      |           |
