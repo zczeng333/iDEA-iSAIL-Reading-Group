@@ -26,7 +26,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 28, 2023 | Jun-Gi Jang    |Efficient Tensor Decomposition  |  [slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230928.pdf)           |
 | Oct 05, 2023 | Dongqi Fu  | Preliminary Exam Dry Run |         |
 | Oct 12, 2023 | Zhichen Zeng| Generative Graph Dictionary Learning | [slides](https://docs.google.com/presentation/d/1RO-QDXnmExQ2l1fUHMpa5X3GPgvsONOB/edit?usp=sharing&ouid=115577525871042983136&rtpof=true&sd=true) |
-| Oct 19, 2023 | Zhining Liu     |             |          |
+| Oct 19, 2023 | Zhining Liu     | Learning from Skewed Data |  [slides](https://docs.google.com/presentation/d/1hLAJdtd0UuotpPGizqNrn9F7iKgVMOlGKcA1zfUZjws/edit?usp=sharing) |
 | Oct 26, 2023 | Yuchen Yan |          |    |
 | Nov 02, 2023 | Zhe Xu |      |           |
 | Nov 09, 2023 | Lecheng Zheng |   |           |
