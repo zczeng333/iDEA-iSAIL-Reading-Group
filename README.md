@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 12, 2023 | Zhichen Zeng| Generative Graph Dictionary Learning | [slides](https://docs.google.com/presentation/d/1RO-QDXnmExQ2l1fUHMpa5X3GPgvsONOB/edit?usp=sharing&ouid=115577525871042983136&rtpof=true&sd=true) |
 | Oct 19, 2023 | Zhining Liu     | Learning from Skewed Data |  [slides](https://docs.google.com/presentation/d/1hLAJdtd0UuotpPGizqNrn9F7iKgVMOlGKcA1zfUZjws/edit?usp=sharing) |
 | Oct 26, 2023 | Yuchen Yan |          |    |
-| Nov 02, 2023 | Zhe Xu |      |           |
+| Nov 02, 2023 | Zhe Xu | Diffusion Generative Model | [slides](https://drive.google.com/file/d/1VdXUi32uXo7OawEUut91FhOOA_HGAJAu/view?usp=sharing) |
 | Nov 09, 2023 | Lecheng Zheng |   |           |
 | Nov 16, 2023 | Ziwei Wu   |                       |           |
 | Nov 23, 2023 | Jun Wu |  |  |
