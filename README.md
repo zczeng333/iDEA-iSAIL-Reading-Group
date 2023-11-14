@@ -30,8 +30,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 26, 2023 | Yuchen Yan |          |    |
 | Nov 02, 2023 | Zhe Xu | Diffusion Generative Model | [slides](https://drive.google.com/file/d/1VdXUi32uXo7OawEUut91FhOOA_HGAJAu/view?usp=sharing) |
 | Nov 09, 2023 | Lecheng Zheng |   |           |
-| Nov 16, 2023 | Ziwei Wu   |                       |           |
-| Nov 23, 2023 | Jun Wu |  |  |
+| Nov 16, 2023 | Jun Wu   |                       |           |
+| Nov 23, 2023 | Ziwei Wu |  |  |
 | Nov 30, 2023 | Tianxin Wei |                       |           |
 | Jan 11, 2024 |   Xiao Lin         |                       |           |
 | Jan 18, 2024 |   Xinyu He        |                       |           |
