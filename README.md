@@ -51,7 +51,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 19, 2023 | Zhining Liu     | Learning from Skewed Data |  [slides](https://docs.google.com/presentation/d/1hLAJdtd0UuotpPGizqNrn9F7iKgVMOlGKcA1zfUZjws/edit?usp=sharing) |
 | Oct 26, 2023 | Yuchen Yan |  NeurIPS Dryrun        |    |
 | Nov 02, 2023 | Zhe Xu | Diffusion Generative Model | [slides](https://drive.google.com/file/d/1VdXUi32uXo7OawEUut91FhOOA_HGAJAu/view?usp=sharing) |
-| Nov 09, 2023 | Lecheng Zheng | Thesis Proopsal Dry Run  |           |
+| Nov 09, 2023 | Lecheng Zheng | Preliminary Exam Dry Run  |           |
 | Nov 16, 2023 | Jun Wu   |  Job Talk Dry Run                     |           |
 | Nov 30, 2023 | Tianxin Wei |                       |           |
 
