@@ -14,6 +14,28 @@ Unless otherwise notified, our reading group for **Fall 2023** is scheduled as f
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
 
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2024:</span>
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| Jan 09, 2024 |   Lihui Liu         |                       |           |
+| Jan 16, 2024 |   Xiao Lin         |                       |           |
+| Jan 23, 2024 |   Xinyu He        |                       |           |
+| Jan 30, 2024 |         |                       |           |
+| Feb 06, 2024 |             |                       |           |
+| Feb 13, 2024 | Dongqi Fu          |                       |           |
+| Feb 20, 2024 |             |                       |           |
+| Feb 27, 2024 | Yikun Ban |                       |           |
+| Mar 05, 2024 | |                       |           |
+| Mar 12, 2024 | |                       |           |
+| Mar 19, 2024 | |                       |           |
+| Mar 26, 2024 | |                       |           |
+| Apr 09, 2024 | |                       |           |
+| Apr 16, 2024 | |                       |           |
+| Apr 23, 2024 | |                       |           |
+| Apr 30, 2024 | |                       |           |
+| May 07, 2024 | |                       |           |
+
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2023:</span>
 
 |    Dates     |  Presenters   |        Topics         | Materials |
@@ -27,18 +49,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 05, 2023 | Dongqi Fu  | Preliminary Exam Dry Run |         |
 | Oct 12, 2023 | Zhichen Zeng| Generative Graph Dictionary Learning | [slides](https://docs.google.com/presentation/d/1RO-QDXnmExQ2l1fUHMpa5X3GPgvsONOB/edit?usp=sharing&ouid=115577525871042983136&rtpof=true&sd=true) |
 | Oct 19, 2023 | Zhining Liu     | Learning from Skewed Data |  [slides](https://docs.google.com/presentation/d/1hLAJdtd0UuotpPGizqNrn9F7iKgVMOlGKcA1zfUZjws/edit?usp=sharing) |
-| Oct 26, 2023 | Yuchen Yan |          |    |
+| Oct 26, 2023 | Yuchen Yan |  NeurIPS Dryrun        |    |
 | Nov 02, 2023 | Zhe Xu | Diffusion Generative Model | [slides](https://drive.google.com/file/d/1VdXUi32uXo7OawEUut91FhOOA_HGAJAu/view?usp=sharing) |
-| Nov 09, 2023 | Lecheng Zheng |   |           |
-| Nov 16, 2023 | Jun Wu   |                       |           |
+| Nov 09, 2023 | Lecheng Zheng | Thesis Proopsal Dry Run  |           |
+| Nov 16, 2023 | Jun Wu   |  Job Talk Dry Run                     |           |
 | Nov 30, 2023 | Tianxin Wei |                       |           |
-| Jan 11, 2024 |   Xiao Lin         |                       |           |
-| Jan 18, 2024 |   Xinyu He        |                       |           |
-| Jan 25, 2024 |         |                       |           |
-| Feb 01, 2024 |             |                       |           |
-| Feb 08, 2024 | Dongqi Fu          |                       |           |
-| Feb 15, 2024 |             |                       |           |
-| Feb 22, 2024 | Yikun Ban |                       |           |
+
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2023:</span>
 
