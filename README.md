@@ -25,8 +25,8 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 06, 2024 |  Lecheng Zheng           |    Job Talk Dry Run                   |           |
 | Feb 13, 2024 |           |                       |           |
 | Feb 20, 2024 |             |                       |           |
-| Feb 27, 2024 | Yikun Ban |                       |           |
-| Mar 05, 2024 | |                       |           |
+| Feb 27, 2024 |  |                       |           |
+| Mar 05, 2024 | Yikun Ban |                       |           |
 | Mar 12, 2024 | |                       |           |
 | Mar 19, 2024 | |                       |           |
 | Mar 26, 2024 | |                       |           |
