@@ -36,7 +36,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 18, 2024 |   Xinyu He        |                       |           |
 | Jan 25, 2024 |         |                       |           |
 | Feb 01, 2024 |             |                       |           |
-| Feb 08, 2024 |           |                       |           |
+| Feb 08, 2024 | Dongqi Fu          |                       |           |
 | Feb 15, 2024 |             |                       |           |
 | Feb 22, 2024 | Yikun Ban |                       |           |
 
