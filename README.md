@@ -21,9 +21,9 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 09, 2024 |   Lihui Liu         |    Job Talk Dry Run                   |           |
 | Jan 16, 2024 |   Xiao Lin         |                       |           |
 | Jan 23, 2024 |   Xinyu He        |                       |           |
-| Jan 30, 2024 |         |                       |           |
+| Jan 30, 2024 |   Dongqi Fu      |   Job Talk Dry Run                    |           |
 | Feb 06, 2024 |             |                       |           |
-| Feb 13, 2024 | Dongqi Fu          |    Job Talk Dry Run                   |           |
+| Feb 13, 2024 |           |                       |           |
 | Feb 20, 2024 |             |                       |           |
 | Feb 27, 2024 | Yikun Ban |                       |           |
 | Mar 05, 2024 | |                       |           |
