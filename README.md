@@ -18,7 +18,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| Jan 09, 2024 |   Lihui Liu         |                       |           |
+| Jan 09, 2024 |   Lihui Liu         |    Job Talk Dry Run                   |           |
 | Jan 16, 2024 |   Xiao Lin         |                       |           |
 | Jan 23, 2024 |   Xinyu He        |                       |           |
 | Jan 30, 2024 |         |                       |           |
