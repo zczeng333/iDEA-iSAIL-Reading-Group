@@ -23,7 +23,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Jan 23, 2024 |   Xinyu He        |                       |           |
 | Jan 30, 2024 |   Dongqi Fu      |   Job Talk Dry Run                    |           |
 | Feb 06, 2024 |  Lecheng Zheng           |    Job Talk Dry Run                   |           |
-| Feb 13, 2024 |           |                       |           |
+| Feb 13, 2024 |     Jun Wu      |                       |           |
 | Feb 20, 2024 |             |                       |           |
 | Feb 27, 2024 |  |                       |           |
 | Mar 05, 2024 | Yikun Ban |                       |           |
