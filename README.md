@@ -30,7 +30,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 12, 2024 | |                       |           |
 | Mar 19, 2024 | |                       |           |
 | Mar 26, 2024 | |                       |           |
-| Apr 02, 2024 | |                       |           |
+| Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
 | Apr 09, 2024 | |                       |           |
 | Apr 16, 2024 | |                       |           |
 | Apr 23, 2024 | |                       |           |
@@ -69,14 +69,14 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 23, 2023 |    Zhe Xu     | WSDM Tutorial Dry Run |    [Slides](https://github.com/DongqiFu/Natural-and-Artificial-Dynamics-in-GNNs-A-Tutorial)         |
 | Mar 02, 2023 |    Ruizhong Qiu  |Meta Solver for Combinatorial Optimization Problems|    [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230302.pdf)       |
 | Mar 09, 2023 |  Jian Kang    | Job Talk Dry Run                      |           |
-| Mar 23, 2022 |  Eunice Chan          |      Fair Active Learning                 |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230323.pdf)        |
-| Mar 30, 2022 |  Blaine Hill / Xinrui He  |          TBD          |    TBD    |
-| Apr 06, 2022 | Lecheng Zheng |   SDM Paper Dry Run   |           |
-| Apr 13, 2022 | Lecheng Zheng | SDM Tutorial Dry Run  |           |
-| Apr 20, 2022 |  Alex Zheng   |                       |           |
-| Apr 27, 2022 | Wenxuan Bao | Fully Test-Time Adaptation | [Slides](https://uofi.box.com/s/19fsw31ghjv9vimvebr9ad5d9gyapuwo) |
-| May 04, 2022 | Qinghai Zhou  |                       |           |
-| May 11, 2022 |       Yunzhe Qi        |                       |           |
+| Mar 23, 2023 |  Eunice Chan          |      Fair Active Learning                 |   [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230323.pdf)        |
+| Mar 30, 2023 |  Blaine Hill / Xinrui He  |         HDCA for RL           |    [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20230330.)    |
+| Apr 06, 2023 | Lecheng Zheng |   SDM Paper Dry Run   |           |
+| Apr 13, 2023 | Lecheng Zheng | SDM Tutorial Dry Run  |           |
+| Apr 20, 2023 |  Alex Zheng   |                       |           |
+| Apr 27, 2023 | Wenxuan Bao | Fully Test-Time Adaptation | [Slides](https://uofi.box.com/s/19fsw31ghjv9vimvebr9ad5d9gyapuwo) |
+| May 04, 2023 | Qinghai Zhou  |                       |           |
+| May 11, 2023 |       Yunzhe Qi        |                       |           |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2022:</span>
 
