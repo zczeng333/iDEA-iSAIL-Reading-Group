@@ -33,7 +33,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
 | Apr 09, 2024 | |                       |           |
 | Apr 16, 2024 | |                       |           |
-| Apr 23, 2024 | |                       |           |
+| Apr 23, 2024 |Ishika Agarwal |                       |           |
 | Apr 30, 2024 | |                       |           |
 | May 07, 2024 | |                       |           |
 
