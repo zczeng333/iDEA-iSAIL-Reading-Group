@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Jan 09, 2024 |   Lihui Liu         |    Job Talk Dry Run                   |           |
-| Jan 16, 2024 |   Xiao Lin         |                       |           |
+| Jan 16, 2024 |   Xiao Lin         |   Anomaly Detection on Multivariate Time Series    | [slides](https://docs.google.com/presentation/d/1sKD5w7z6SgPhNI_dH9hd51n-WPjsrVFJvgafQ2MR0nU/edit?usp=sharing)           |
 | Jan 23, 2024 |   Xinyu He        | Denoising Rec Sys | [slides](https://docs.google.com/presentation/d/1ofs7JT38bggGdLU_tX-e7-9teCQrpyB6nfDVuhtsaQ4/edit?usp=sharing) |
 | Jan 30, 2024 |   Dongqi Fu      |   Job Talk Dry Run                    |           |
 | Feb 06, 2024 |  Lecheng Zheng           |    Job Talk Dry Run                   |           |
