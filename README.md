@@ -29,7 +29,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 05, 2024 | Yikun Ban |                       |           |
 | Mar 12, 2024 | |                       |           |
 | Mar 19, 2024 | |                       |           |
-| Mar 26, 2024 | |                       |           |
+| Mar 26, 2024 | Maggie Wu |                       |           |
 | Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
 | Apr 09, 2024 | |                       |           |
 | Apr 16, 2024 | |                       |           |
