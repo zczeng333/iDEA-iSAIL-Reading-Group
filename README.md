@@ -31,7 +31,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 19, 2024 | |                       |           |
 | Mar 26, 2024 | Maggie Wu |                       |           |
 | Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
-| Apr 09, 2024 | |                       |           |
+| Apr 09, 2024 | Zhe Xu | Preliminary Exam Dry | |
 | Apr 16, 2024 | Eunice Chan |                       |           |
 | Apr 23, 2024 |Ishika Agarwal |                       |           |
 | Apr 30, 2024 | |                       |           |
