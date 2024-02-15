@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 20, 2024 |             |                       |           |
 | Feb 27, 2024 |  |                       |           |
 | Mar 05, 2024 | Yikun Ban |                       |           |
-| Mar 12, 2024 | |                       |           |
+| Mar 12, 2024 | Zihao Li  | TBD                   | TBD       |
 | Mar 19, 2024 | |                       |           |
 | Mar 26, 2024 | |                       |           |
 | Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
