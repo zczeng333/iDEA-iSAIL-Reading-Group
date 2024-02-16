@@ -25,17 +25,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 06, 2024 |  Lecheng Zheng           |    Job Talk Dry Run                   |           |
 | Feb 13, 2024 |     Jun Wu      |                       |           |
 | Feb 20, 2024 |             |                       |           |
-| Feb 27, 2024 |  |                       |           |
+| Feb 27, 2024 | Wenxuan Bao, Tianxin Wei, etc. |    NeurIPS Debriefing                   |           |
 | Mar 05, 2024 | Yikun Ban |                       |           |
-| Mar 12, 2024 | |                       |           |
-| Mar 19, 2024 | |                       |           |
+| Mar 12, 2024 | Zihao Li  | I'll try my best to pick a fancy topic 😋                   | TBD       |
+| Mar 19, 2024 | |     Wenxuan Bao, Tianxin Wei, etc.                  |     NeurIPS Debriefing      |
 | Mar 26, 2024 | Maggie Wu |                       |           |
 | Apr 02, 2024 | Blaine Hill |   TBD     |     TBD   |
-| Apr 09, 2024 | |                       |           |
+| Apr 09, 2024 | Zhe Xu | Preliminary Exam Dry | |
 | Apr 16, 2024 | Eunice Chan |                       |           |
 | Apr 23, 2024 |Ishika Agarwal |                       |           |
-| Apr 30, 2024 | |                       |           |
+| Apr 30, 2024 | Hyunsik Yoo |           |           |
 | May 07, 2024 | Zhining Liu | Attributing Data-encoded Unfairness |           |
+| May 07, 2024 | |                       |           |
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2023:</span>
 
