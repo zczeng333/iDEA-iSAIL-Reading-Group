@@ -25,7 +25,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 06, 2024 |  Lecheng Zheng           |    Job Talk Dry Run                   |           |
 | Feb 13, 2024 |     Jun Wu      |    Job Talk Dry Run                   |           |
 | Feb 20, 2024 |  Dongqi Fu           |       Job Talk Dry Run                |           |
-| Feb 27, 2024 | Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |    NeurIPS Debriefing                   |           |
+| Feb 27, 2024 | Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |    NeurIPS Debriefing                   | [slides](https://uofi.box.com/s/jckchq4hfrxmehosbl6r1j7be9qjwb89) |
 | Mar 05, 2024 | Zihao Li  | I'll try my best to pick a fancy topic 😋                   | TBD       |
 | Mar 12, 2024 | Yikun Ban |                       |           |
 | Mar 19, 2024 |Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |     NeurIPS Debriefing                 |          |
