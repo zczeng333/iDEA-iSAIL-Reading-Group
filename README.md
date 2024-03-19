@@ -27,7 +27,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Feb 20, 2024 |  Dongqi Fu           |       Job Talk Dry Run                |           |
 | Feb 27, 2024 | Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |    NeurIPS Debriefing                   | [slides](https://uofi.box.com/s/jckchq4hfrxmehosbl6r1j7be9qjwb89) |
 | Mar 05, 2024 | Tianxin Wei, Zihao Li  | NeurIPS Debriefing               | [slides](https://docs.google.com/presentation/d/1qXTMqGmr1LzXakMSKeRnQpbwWGcvrgJEkodtFZ52puQ/edit?usp=sharing)|
-| Mar 12, 2024 | Yikun Ban |                       |           |
+| Mar 12, 2024 | Yikun Ban |          Large Language Models for Recommendation             |    [slides](https://docs.google.com/presentation/d/1uWZE82FoPBhW6x3zW9A-bMoHUn_BEI5c/edit?usp=sharing&ouid=101183730957480367054&rtpof=true&sd=true)       |
 | Mar 19, 2024 |Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |     NeurIPS Debriefing                 |          |
 | Mar 26, 2024 | Maggie Wu |                       |           |
 | Apr 02, 2024 | Ruizhong Qiu |  Zeroth-Order Gradient Estimation     |     TBD   |
