@@ -31,10 +31,11 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Mar 19, 2024 |Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |     NeurIPS Debriefing                 |          |
 | Mar 26, 2024 |Wenxuan Bao, Tianxin Wei, Jun Wu, Yunzhe Qi, Zhichen Zeng |     NeurIPS Debriefing                 |          |
 | Apr 09, 2024 | Zhe Xu | Preliminary Exam Dry | |
-| Apr 16, 2024 | Maggie Wu |                       |           |
+| Apr 16, 2024  | Ruizhong Qiu | Zeroth-Order Gradient Estimation |           |
 | Apr 23, 2024 |Ishika Agarwal |                       |           |
 | Apr 30, 2024 | Hyunsik Yoo |           |           |
-| May 07, 2024 | Ruizhong Qiu | Zeroth-Order Gradient Estimation |           |
+| May 07, 2024 | Maggie Wu |                       |           |
+
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2023:</span>
 
