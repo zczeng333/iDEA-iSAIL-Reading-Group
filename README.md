@@ -4,15 +4,35 @@ I-I (iDEA-iSAIL) reading group is a statistical learning and data mining reading
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Regular Meeting.</span>
 
-**Time**: 9:00am - 10:00am CDT, every Tuesday.
+**Time**: 9:00am - 10:00am CDT, every Thursday.
 
-**Room**: 2124 Siebel
+**Room**: TBD
 
 **Zoom (if online)**: https://illinois.zoom.us/j/6602062914?pwd=dGxWd1BKMit4b0pEcVdQc0pZTG8xZz09
 
-Unless otherwise notified, our reading group for **Fall 2023** is scheduled as follows. If you would like to present in an upcoming meeting, please submit a pull request for registering or email [Dongqi Fu](https://dongqifu.github.io/) (dongqif2 [at] illinois [dot] edu). </span>
+Unless otherwise notified, our reading group for **Fall 2024** is scheduled as follows. If you would like to present in an upcoming meeting, please edit the README.md and submit a pull request for registering. </span>
 
 Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presentation slides to this github repository; (2) please also **<ins>do not forget</ins>** to forward the papers you are going to represent a week ahead of your presentation.
+
+### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Fall 2024:</span>
+
+|    Dates     |  Presenters   |        Topics         | Materials |
+| :----------: | :-----------: | :-------------------: | :-------: |
+| Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           |
+| Sep 12, 2024 |               |                       |           |
+| Sep 19, 2024 |               |                       |           |
+| Sep 26, 2024 |               |                       |           |
+| Oct 03, 2024 |               |                       |           |
+| Oct 10, 2024 |               |                       |           |
+| Oct 17, 2024 |               |                       |           |
+| Oct 24, 2024 |               |                       |           |
+| Oct 31, 2024 |               |                       |           |
+| Nov 07, 2024 |               |                       |           |
+| Nov 14, 2024 |               |                       |           |
+| Nov 21, 2024 |               |                       |           |
+| Dec 05, 2024 |               |                       |           |
+
+
 
 ### <span style="margin: 0px; padding: 0px; border: 0px; font-weight: inherit; font-style: inherit; font-family: Arial; vertical-align: baseline;">Schedule for Spring 2024:</span>
 
