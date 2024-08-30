@@ -19,7 +19,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           |
-| Sep 12, 2024 |               |                       |           |
+| Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
 | Sep 19, 2024 |               |                       |           |
 | Sep 26, 2024 |               |                       |           |
 | Oct 03, 2024 |               |                       |           |
