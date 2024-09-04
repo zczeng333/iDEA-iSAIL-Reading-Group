@@ -24,7 +24,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 26, 2024 |               |                       |           |
 | Oct 03, 2024 |               |                       |           |
 | Oct 10, 2024 | Zhe Xu        |                       |           |
-| Oct 17, 2024 |               |                       |           |
+| Oct 17, 2024 | Xiao Lin      |                       |           |
 | Oct 24, 2024 |               |                       |           |
 | Oct 31, 2024 |               |                       |           |
 | Nov 07, 2024 |               |                       |           |
