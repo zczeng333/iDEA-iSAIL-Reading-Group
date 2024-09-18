@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           |
 | Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
-| Sep 19, 2024 |               |                       |           |
+| Sep 19, 2024 | Zhining Liu, Zhichen Zeng | ICML 2024 Debriefing |           |
 | Sep 26, 2024 |               |                       |           |
 | Oct 03, 2024 |               |                       |           |
 | Oct 10, 2024 | Zhe Xu        |                       |           |
