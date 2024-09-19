@@ -20,7 +20,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | :----------: | :-----------: | :-------------------: | :-------: |
 | Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           |
 | Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
-| Sep 19, 2024 | Zhining Liu, Zhichen Zeng | ICML 2024 Debriefing |           |
+| Sep 19, 2024 | Zhining Liu, Zhichen Zeng | ICML 2024 Debriefing | [Slides](https://docs.google.com/presentation/d/1qmqpDVJY0joIbp6baRi-k3e35D7qi7CwyPDO7TYD2Hw/edit?usp=sharing) |
 | Sep 26, 2024 | Yikun Ban, Lecheng Zheng |  KDD 2024 Debriefing |           |
 | Oct 03, 2024 | Ruizhong Qiu, Zihao Li  |                       |           |
 | Oct 10, 2024 | Zhe Xu        |                       |           |
