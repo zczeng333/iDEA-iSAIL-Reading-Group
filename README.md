@@ -21,12 +21,12 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           |
 | Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
 | Sep 19, 2024 | Zhining Liu, Zhichen Zeng | ICML 2024 Debriefing |           |
-| Sep 26, 2024 |               |                       |           |
-| Oct 03, 2024 |               |                       |           |
+| Sep 26, 2024 | Yikun Ban, Lecheng Zheng |  KDD 2024 Debriefing |           |
+| Oct 03, 2024 | Ruizhong Qiu, Zihao Li  |                       |           |
 | Oct 10, 2024 | Zhe Xu        |                       |           |
 | Oct 17, 2024 | Xiao Lin      |                       |           |
 | Oct 24, 2024 | Tianxin Wei              |                       |           |
-| Oct 31, 2024 |               |                       |           |
+| Oct 31, 2024 | Lecheng Zheng  |                       |           |
 | Nov 07, 2024 |               |                       |           |
 | Nov 14, 2024 |               |                       |           |
 | Nov 21, 2024 |               |                       |           |
