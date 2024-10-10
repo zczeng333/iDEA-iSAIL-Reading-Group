@@ -18,18 +18,18 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 
 |    Dates     |  Presenters   |        Topics         | Materials |
 | :----------: | :-----------: | :-------------------: | :-------: |
-| Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |  [Slides](https://docs.google.com/presentation/d/1zFgA96nUXjD3I14Pzxxyz9jeX_KUTH4vYM1-AdZIiIo/edit?usp=sharing)         |
-| Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts |           |
+| Sep 05, 2024 | Hyunsik Yoo, Xinrui He, et al |  Web 2024 Debriefing   |           | [Slides](https://docs.google.com/presentation/d/1zFgA96nUXjD3I14Pzxxyz9jeX_KUTH4vYM1-AdZIiIo/edit?usp=sharing) |
+| Sep 12, 2024 | Yikun, Ruizhong, Wenxuan, Zhichen | Rebuttal Panel: Dos and Don'ts | [Slides](https://docs.google.com/presentation/d/1QWCoZujc7xRfBOvPoPB_xu6cyarj7wQMxTAwjYyQqxA/edit?usp=sharing) |
 | Sep 19, 2024 | Zhining Liu, Zhichen Zeng | ICML 2024 Debriefing | [Slides](https://docs.google.com/presentation/d/1qmqpDVJY0joIbp6baRi-k3e35D7qi7CwyPDO7TYD2Hw/edit?usp=sharing) |
 | Sep 26, 2024 | Yikun Ban, Lecheng Zheng |  KDD 2024 Debriefing |           |
-| Oct 03, 2024 | Ruizhong Qiu, Zihao Li  |                       |           |
-| Oct 10, 2024 | Zhe Xu        |                       |           |
-| Oct 17, 2024 | Xiao Lin      |                       |           |
+| Oct 03, 2024 | Ruizhong Qiu, Zihao Li  | Score Entropy  |  [Slides](https://github.com/isail-laboratory/iDEA-iSAIL-Reading-Group/blob/master/slides/20241003.pdf)  |
+| Oct 10, 2024 | Xiao Lin        |                       |           |
+| Oct 17, 2024 | Zhe Xu      |                       |           |
 | Oct 24, 2024 | Tianxin Wei              |                       |           |
 | Oct 31, 2024 | Lecheng Zheng  |                       |           |
-| Nov 07, 2024 |               |                       |           |
+| Nov 07, 2024 | Ting-Wei Li              |                       |           |
 | Nov 14, 2024 |               |                       |           |
-| Nov 21, 2024 |               |                       |           |
+| Nov 21, 2024 | Jiaru Zou     |                       |           |
 | Dec 05, 2024 |               |                       |           |
 
 
