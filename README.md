@@ -28,7 +28,7 @@ Presenters, (1) please **<ins>do not forget</ins>** to upload your nice presenta
 | Oct 24, 2024 | Tianxin Wei              |                       |           |
 | Oct 31, 2024 | Lecheng Zheng  |                       |           |
 | Nov 07, 2024 | Ting-Wei Li              |                       |           |
-| Nov 14, 2024 | Zhe Xu |                       |           |
+| Nov 14, 2024 | Zhe Xu |  RAG  | [Slides](https://drive.google.com/file/d/1Bu56fPQbAIi1kbUS1KAUFG3DrwVc2POd/view?usp=sharing) |
 | Nov 21, 2024 |      |                       |           |
 | Dec 05, 2024 | Jiaru Zou     |                       |           |
 
